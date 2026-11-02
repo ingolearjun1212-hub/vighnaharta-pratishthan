@@ -26,7 +26,7 @@ function Hero() {
             <h1 className='text-1xl font-extrabold leading-tight md:text-6xl '>
                 
                 Ganpati Bappa 
-                <span className='block text-amber-400'>Morya</span>
+                   <span className='block text-amber-400'>Morya</span>
                 </h1>
 
 
